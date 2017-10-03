@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestSendSocket</string>
+
+    <string-array name="delimiter_array">
+        <item>Comma</item>
+        <item>Tab</item>
+        <item>SemiColon</item>
+        <item>Space</item>
+        <item>Pipe</item>
+        <item>Manual</item>
+    </string-array>
+</resources>
